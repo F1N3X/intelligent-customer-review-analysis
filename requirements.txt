@@ -27,3 +27,7 @@ tqdm>=4.62.0
 # Jupyter Notebook support
 jupyter>=1.0.0
 ipykernel>=6.0.0
+fastapi
+uvicorn
+jinja2
+joblib
